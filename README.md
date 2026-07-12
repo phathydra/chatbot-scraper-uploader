@@ -44,12 +44,15 @@ docker run --rm --env-file .env -v "%cd%\data:/data" optibotclone
 
 No custom chunking strategy was used as the default settings provided by OpenAI's vector store performed sufficiently well for this project.
 
+## Upload log
+
+Logs: https://github.com/phathydra/chatbot-scraper-uploader/blob/main/logs/upload_log.json
+
 ## Daily Job
 
 Runs once per day at 17:00 UTC (00:00 in Vietnam time) on Railway.
 
 Logs:
-
 
 
 ## Assistant Demo
