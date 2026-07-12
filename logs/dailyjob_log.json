@@ -1,0 +1,457 @@
+[
+  {
+    "message": "Mounting volume on: /var/lib/containers/railwayapp/bind-mounts/a02fe2d5-f232-44dd-a01f-ebd136c0220f/vol_dsbxov7zuaejcr12",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:25.024362049Z"
+  },
+  {
+    "message": "Starting Container",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:25.024388519Z"
+  },
+  {
+    "message": "Fetched page in 0.29 seconds | Added: 30 articles | Total so far: 30",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954478760Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954485725Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954489799Z"
+  },
+  {
+    "message": "Fetched page in 0.04 seconds | Added: 30 articles | Total so far: 150",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954492094Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954499288Z"
+  },
+  {
+    "message": "Fetched page in 0.04 seconds | Added: 30 articles | Total so far: 120",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954505085Z"
+  },
+  {
+    "message": "Fetched page in 0.04 seconds | Added: 30 articles | Total so far: 210",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954508629Z"
+  },
+  {
+    "message": "Fetched page in 0.05 seconds | Added: 30 articles | Total so far: 240",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954512335Z"
+  },
+  {
+    "message": "Fetched page in 0.06 seconds | Added: 30 articles | Total so far: 60",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954512563Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954516826Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954518043Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954525710Z"
+  },
+  {
+    "message": "Fetched page in 0.05 seconds | Added: 30 articles | Total so far: 180",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954528370Z"
+  },
+  {
+    "message": "Fetched page in 0.05 seconds | Added: 30 articles | Total so far: 300",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954531615Z"
+  },
+  {
+    "message": "Fetched page in 0.04 seconds | Added: 30 articles | Total so far: 90",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954534250Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954538967Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954542283Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954545310Z"
+  },
+  {
+    "message": "Fetched page in 0.05 seconds | Added: 30 articles | Total so far: 270",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954550500Z"
+  },
+  {
+    "message": "Fetched page in 0.05 seconds | Added: 30 articles | Total so far: 330",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954553376Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954556460Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954560378Z"
+  },
+  {
+    "message": "Fetched page in 0.04 seconds | Added: 30 articles | Total so far: 360",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954564837Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954568762Z"
+  },
+  {
+    "message": "Fetched page in 0.05 seconds | Added: 30 articles | Total so far: 390",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954572756Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.954576830Z"
+  },
+  {
+    "message": "Fetched page in 0.04 seconds | Added: 16 articles | Total so far: 406",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.955391512Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.955396125Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.955400453Z"
+  },
+  {
+    "message": "Starting synchronization for 406 articles.",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.955403848Z"
+  },
+  {
+    "message": "",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.955407113Z"
+  },
+  {
+    "message": "SYNC_RESULT added=0 updated=0 skipped=406",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "88184598-3fb7-42aa-8b66-73c90582f360",
+      "replica": "a02fe2d5-f232-44dd-a01f-ebd136c0220f"
+    },
+    "timestamp": "2026-07-12T06:50:26.955411021Z"
+  },
+  {
+    "message": "Stopping Container",
+    "severity": "info",
+    "attributes": { "level": "info" },
+    "tags": {
+      "project": "1c100ed2-a58c-4f0e-8c3f-e22d4e62eef2",
+      "environment": "fe4f0b9a-1d00-4624-8718-11a3fe861276",
+      "service": "ce687e3c-69a6-4308-996b-65518ea0758a",
+      "deployment": "9e1ac658-efe9-44e1-a7fe-da057e0426ae",
+      "replica": "0ced64f9-ef9d-4560-9ac9-90d23b48b25c"
+    },
+    "timestamp": "2026-07-12T06:50:28.044338416Z"
+  }
+]

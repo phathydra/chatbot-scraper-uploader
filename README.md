@@ -52,7 +52,8 @@ Logs: https://github.com/phathydra/chatbot-scraper-uploader/blob/main/logs/uploa
 
 Runs once per day at 17:00 UTC (00:00 in Vietnam time) on Railway.
 
-Logs:
+Logs: https://github.com/phathydra/chatbot-scraper-uploader/blob/main/logs/dailyjob_log.json \
+(Log for daily run at 6:50 UTC for testing)
 
 
 ## Assistant Demo
