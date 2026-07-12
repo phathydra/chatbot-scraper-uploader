@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+knowledge_base/
+sync_state.json
+data/
